@@ -1,0 +1,18 @@
+{
+  "name": "zadatak",
+  "version": "1.0.0",
+  "description": "Color game.",
+  "main": "colorGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Color",
+    "games"
+  ],
+  "author": "Nebojsa Pavlovic",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
+}
